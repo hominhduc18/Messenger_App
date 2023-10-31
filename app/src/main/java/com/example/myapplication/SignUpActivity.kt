@@ -2,10 +2,10 @@ package com.example.myapplication
 
 import android.app.ProgressDialog
 import android.content.Intent
-import android.databinding.DataBindingUtil
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.databinding.DataBindingUtil
 import com.example.myapplication.databinding.ActivitySignUpBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
